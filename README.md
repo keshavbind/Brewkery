@@ -8,13 +8,28 @@
 
 ### Screenshots
 
-| Menu / Home | Item Detail | Cart Management |
-| :---: | :---: | :---: |
-| ![Menu](screenshots/menu.jpeg) | ![Item Detail](screenshots/item_detail.jpeg) | ![Cart](screenshots/cart.jpeg) |
-
-| Checkout | Order Confirmation |
-| :---: | :---: |
-| ![Checkout](screenshots/checkout.jpeg) | ![Order Placed](screenshots/order_placed.jpeg) |
+<table>
+  <tr>
+    <th>Menu / Home</th>
+    <th>Item Detail</th>
+    <th>Cart Management</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/menu.jpeg" width="200" height="400"></td>
+    <td><img src="screenshots/item_detail.jpeg" width="200" height="400"></td>
+    <td><img src="screenshots/cart.jpeg" width="200" height="400"></td>
+  </tr>
+  <tr>
+    <th>Checkout</th>
+    <th>Order Confirmation</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/checkout.jpeg" width="200" height="400"></td>
+    <td><img src="screenshots/order_placed.jpeg" width="200" height="400"></td>
+    <td></td>
+  </tr>
+</table>
 
 ### 🎥 Video Demonstration
 
@@ -105,7 +120,7 @@ I checked the Gradle build error, identified that the unsupported attributes wer
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Brewkery.git
+   git clone https://github.com/keshavbind/Brewkery.git
    ```
 2. **Open in Android Studio**:
    Open Android Studio, select **Open an Existing Project**, and choose the `Brewkery` folder.
